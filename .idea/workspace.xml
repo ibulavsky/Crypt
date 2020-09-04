@@ -94,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599214925489</updated>
       <workItem from="1599214926562" duration="4013000" />
-      <workItem from="1599219435741" duration="1690000" />
+      <workItem from="1599219435741" duration="1932000" />
     </task>
     <task id="LOCAL-00001" summary="Crypt">
       <created>1599220550498</created>
@@ -103,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599220550499</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gh-pages">
+      <created>1599221165854</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599221165854</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gh-pages2">
+      <created>1599221327933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599221327933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +138,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Crypt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Crypt" />
+    <MESSAGE value="gh-pages" />
+    <MESSAGE value="gh-pages2" />
+    <option name="LAST_COMMIT_MESSAGE" value="gh-pages2" />
   </component>
 </project>
