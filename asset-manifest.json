@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/crypt-react/static/css/main.b8c4ab31.chunk.css",
-    "main.js": "/crypt-react/static/js/main.277d3804.chunk.js",
-    "main.js.map": "/crypt-react/static/js/main.277d3804.chunk.js.map",
-    "runtime-main.js": "/crypt-react/static/js/runtime-main.0e48e68d.js",
-    "runtime-main.js.map": "/crypt-react/static/js/runtime-main.0e48e68d.js.map",
-    "static/js/2.51fa7739.chunk.js": "/crypt-react/static/js/2.51fa7739.chunk.js",
-    "static/js/2.51fa7739.chunk.js.map": "/crypt-react/static/js/2.51fa7739.chunk.js.map",
-    "index.html": "/crypt-react/index.html",
-    "precache-manifest.192f68d8d58bc11dcb6c317dbd699254.js": "/crypt-react/precache-manifest.192f68d8d58bc11dcb6c317dbd699254.js",
-    "service-worker.js": "/crypt-react/service-worker.js",
-    "static/css/main.b8c4ab31.chunk.css.map": "/crypt-react/static/css/main.b8c4ab31.chunk.css.map",
-    "static/js/2.51fa7739.chunk.js.LICENSE.txt": "/crypt-react/static/js/2.51fa7739.chunk.js.LICENSE.txt"
+    "main.css": "/Crypt/static/css/main.b8c4ab31.chunk.css",
+    "main.js": "/Crypt/static/js/main.5c99fd94.chunk.js",
+    "main.js.map": "/Crypt/static/js/main.5c99fd94.chunk.js.map",
+    "runtime-main.js": "/Crypt/static/js/runtime-main.9cb65e15.js",
+    "runtime-main.js.map": "/Crypt/static/js/runtime-main.9cb65e15.js.map",
+    "static/js/2.51fa7739.chunk.js": "/Crypt/static/js/2.51fa7739.chunk.js",
+    "static/js/2.51fa7739.chunk.js.map": "/Crypt/static/js/2.51fa7739.chunk.js.map",
+    "index.html": "/Crypt/index.html",
+    "precache-manifest.3a5ea7db9df79670485a0f2e3bb2bd0d.js": "/Crypt/precache-manifest.3a5ea7db9df79670485a0f2e3bb2bd0d.js",
+    "service-worker.js": "/Crypt/service-worker.js",
+    "static/css/main.b8c4ab31.chunk.css.map": "/Crypt/static/css/main.b8c4ab31.chunk.css.map",
+    "static/js/2.51fa7739.chunk.js.LICENSE.txt": "/Crypt/static/js/2.51fa7739.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0e48e68d.js",
+    "static/js/runtime-main.9cb65e15.js",
     "static/js/2.51fa7739.chunk.js",
     "static/css/main.b8c4ab31.chunk.css",
-    "static/js/main.277d3804.chunk.js"
+    "static/js/main.5c99fd94.chunk.js"
   ]
 }
