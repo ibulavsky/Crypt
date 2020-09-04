@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/crypt-react/static/css/main.b8c4ab31.chunk.css",
+    "main.js": "/crypt-react/static/js/main.277d3804.chunk.js",
+    "main.js.map": "/crypt-react/static/js/main.277d3804.chunk.js.map",
+    "runtime-main.js": "/crypt-react/static/js/runtime-main.0e48e68d.js",
+    "runtime-main.js.map": "/crypt-react/static/js/runtime-main.0e48e68d.js.map",
+    "static/js/2.51fa7739.chunk.js": "/crypt-react/static/js/2.51fa7739.chunk.js",
+    "static/js/2.51fa7739.chunk.js.map": "/crypt-react/static/js/2.51fa7739.chunk.js.map",
+    "index.html": "/crypt-react/index.html",
+    "precache-manifest.192f68d8d58bc11dcb6c317dbd699254.js": "/crypt-react/precache-manifest.192f68d8d58bc11dcb6c317dbd699254.js",
+    "service-worker.js": "/crypt-react/service-worker.js",
+    "static/css/main.b8c4ab31.chunk.css.map": "/crypt-react/static/css/main.b8c4ab31.chunk.css.map",
+    "static/js/2.51fa7739.chunk.js.LICENSE.txt": "/crypt-react/static/js/2.51fa7739.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e48e68d.js",
+    "static/js/2.51fa7739.chunk.js",
+    "static/css/main.b8c4ab31.chunk.css",
+    "static/js/main.277d3804.chunk.js"
+  ]
+}
